@@ -1,0 +1,46 @@
+.table {
+  &--size2 {
+    @media only screen and (max-width: 767px) {
+      td {
+        padding: 10px 20px 10px 65%;
+        &:before {
+          content: 'Dydis';
+          font-weight: 500;
+          position: absolute;
+          top: 50%;
+          left: 20px;
+          transform: translateY(-50%);
+        }
+       
+        &:nth-of-type(2) {
+          &:before {
+           content: 'ŪGIS';
+          }
+        }
+       
+        &:nth-of-type(3) {
+          &:before {
+           content: 'KRŪTINĖS APIMTIS';
+          }
+        }
+   
+        &:nth-of-type(4) {
+          &:before {
+          content: 'LIEMENS APIMTIS';
+          }
+        }
+   
+        &:nth-of-type(5) {
+          &:before {
+          content: 'KLUBAI';
+          }
+        }
+      }
+    }
+
+    @media (min-width: 1200px) {
+      margin-right: 0;
+      margin-left: auto;
+    }
+  }
+}

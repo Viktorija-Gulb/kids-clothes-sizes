@@ -1,0 +1,15 @@
+@import '../../styles/main';
+
+.footer {
+  background: $bg-color-dark;
+  color: $text-color-light-white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__time-of-day {
+    margin-bottom: 20px;
+  }
+}

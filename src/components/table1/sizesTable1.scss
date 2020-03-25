@@ -1,0 +1,125 @@
+@import '../../styles/main';
+
+.table-wrapper {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 40px;
+
+  // &:nth-of-type(1){
+  //   background: $color-5;
+  // }
+  // &:nth-of-type(3n){
+  //   background: $color-5;
+  // }
+  @media only screen and (min-width: 768px) {
+    margin-bottom: 40px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    flex: 2;
+  }
+}
+
+.open-table-btn {
+  padding: 20px;
+  background: $bg-color-light;
+  background: $color-4;
+
+  @media only screen and (min-width: 768px) {
+    display: none;
+  }
+}
+
+.table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0px auto;
+  padding: 0 20px;
+  display: none;
+
+  &--hidden {
+    display: none;
+  }
+
+  &__row {
+    $this: &;
+
+    background: darken($text-color-light-white, 2%);
+
+    &:nth-child(2n) {
+      background: darken($text-color-light-white, 5%);
+    }
+
+    &--head-row {
+      background: $color-3;
+      font-weight: 600;
+    }
+  }
+
+  &__cell {
+    padding: 15px 15px;
+    vertical-align: middle;
+  }
+
+  &--open {
+    display: table;
+  }
+
+  @media only screen and (max-width: 767px) {
+    thead {
+      display: none;
+    }
+
+    tr {
+      margin: 0 0 15px;
+      display: block;
+      border: 1px solid $table-border-color;
+    }
+
+    td {
+      display: block;
+      text-align: left;
+      padding: 10px 20px 10px 40%;
+      position: relative;
+    
+      &:before {
+       content: 'Dydis';
+       font-weight: 500;
+       position: absolute;
+       top: 50%;
+       left: 20px;
+       transform: translateY(-50%);
+      }
+    
+      &:nth-of-type(2) {
+       &:before {
+        content: 'ŪGIS';
+       }
+      }
+    
+      &:nth-of-type(3) {
+       &:before {
+        content: 'SVORIS';
+       }
+      }
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    width: 60%;
+    display: table;
+    border: 1px solid $table-border-color;
+    &__cell {
+      border-right: 1px solid $table-border-color
+    }
+  }
+
+  @media only screen and (min-width: 1200px) {
+    width: 82%;
+    margin: 0;
+  }
+}

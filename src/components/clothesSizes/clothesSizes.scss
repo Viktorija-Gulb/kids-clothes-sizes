@@ -1,0 +1,86 @@
+@import '../../styles/main';
+
+.section {
+  $this: &;
+
+  box-sizing: border-box;
+  &:last-child {
+    margin-bottom: 60px;
+  }
+
+  &__wrapper {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 20px 0 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+
+    .img-holder {
+      width: 100%;
+
+      &__img {
+        position: relative;
+      }
+
+      &__comment {
+        font-size: $font-size-extra-small;
+        position: relative;
+        top: -19px;
+        display: block;
+        text-align: right;
+        color: $text-color-light;
+      }
+    }
+  }
+
+  &__content {
+
+    @media (min-width: 768px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    @media (min-width: 1200px) {
+      flex-direction: row;
+
+      &--toddler,
+      &--hats {
+        flex-direction: row-reverse;
+      }
+    }
+  }
+
+  @media (min-width: 768px) {
+    .img-holder {
+      width: 60%;
+    }
+
+    &__wrapper {
+      margin-bottom: 100px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    &__wrapper {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .img-holder {
+      flex: 1;
+
+      &--schoolAge {
+        flex:2;
+      }
+
+      &--hats {
+        flex: 2;
+      }
+    }
+  }
+}
