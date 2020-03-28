@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kids-clothes-sizes/precache-manifest.6825d9c872bc3665108c32bd5162c0be.js"
+  "/kids-clothes-sizes/precache-manifest.d99fbd9022260b30d4a5c9b7db50cb51.js"
 );
 
 self.addEventListener('message', (event) => {

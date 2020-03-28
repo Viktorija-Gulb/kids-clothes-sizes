@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kids-clothes-sizes/static/css/main.2f71ace9.chunk.css",
+    "main.css": "/kids-clothes-sizes/static/css/main.5735b6b4.chunk.css",
     "main.js": "/kids-clothes-sizes/static/js/main.3b8ba584.chunk.js",
     "main.js.map": "/kids-clothes-sizes/static/js/main.3b8ba584.chunk.js.map",
     "runtime-main.js": "/kids-clothes-sizes/static/js/runtime-main.6639508f.js",
@@ -8,9 +8,9 @@
     "static/js/2.f4a4ac3e.chunk.js": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js",
     "static/js/2.f4a4ac3e.chunk.js.map": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js.map",
     "index.html": "/kids-clothes-sizes/index.html",
-    "precache-manifest.6825d9c872bc3665108c32bd5162c0be.js": "/kids-clothes-sizes/precache-manifest.6825d9c872bc3665108c32bd5162c0be.js",
+    "precache-manifest.d99fbd9022260b30d4a5c9b7db50cb51.js": "/kids-clothes-sizes/precache-manifest.d99fbd9022260b30d4a5c9b7db50cb51.js",
     "service-worker.js": "/kids-clothes-sizes/service-worker.js",
-    "static/css/main.2f71ace9.chunk.css.map": "/kids-clothes-sizes/static/css/main.2f71ace9.chunk.css.map",
+    "static/css/main.5735b6b4.chunk.css.map": "/kids-clothes-sizes/static/css/main.5735b6b4.chunk.css.map",
     "static/js/2.f4a4ac3e.chunk.js.LICENSE": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js.LICENSE",
     "static/media/ben-white.jpg": "/kids-clothes-sizes/static/media/ben-white.41fa2fbd.jpg",
     "static/media/header.scss": "/kids-clothes-sizes/static/media/children.fe8a9a16.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.6639508f.js",
     "static/js/2.f4a4ac3e.chunk.js",
-    "static/css/main.2f71ace9.chunk.css",
+    "static/css/main.5735b6b4.chunk.css",
     "static/js/main.3b8ba584.chunk.js"
   ]
 }

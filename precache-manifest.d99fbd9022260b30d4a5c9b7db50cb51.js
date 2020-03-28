@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e948efd1f20cb1782ce416fc89b7f882",
+    "revision": "5ae79b21022640355a3cd06c92da72ff",
     "url": "/kids-clothes-sizes/index.html"
   },
   {
-    "revision": "5b6b8c4aa87c0cabcaf0",
-    "url": "/kids-clothes-sizes/static/css/main.2f71ace9.chunk.css"
+    "revision": "b61cdbd8ab6292bc72f2",
+    "url": "/kids-clothes-sizes/static/css/main.5735b6b4.chunk.css"
   },
   {
     "revision": "d57af6e433f5893c7488",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js.LICENSE"
   },
   {
-    "revision": "5b6b8c4aa87c0cabcaf0",
+    "revision": "b61cdbd8ab6292bc72f2",
     "url": "/kids-clothes-sizes/static/js/main.3b8ba584.chunk.js"
   },
   {
