@@ -1,7 +1,7 @@
 {
   "name": "kids-size-calc-react",
   "version": "0.1.0",
-  "homepage": "https://viktorija-gulb.github.io/kids-clothes-sizes",
+  "homepage": "https://vaikiskidydziai.lt/",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",

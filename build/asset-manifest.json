@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/kids-clothes-sizes/static/css/main.5735b6b4.chunk.css",
-    "main.js": "/kids-clothes-sizes/static/js/main.3b8ba584.chunk.js",
-    "main.js.map": "/kids-clothes-sizes/static/js/main.3b8ba584.chunk.js.map",
-    "runtime-main.js": "/kids-clothes-sizes/static/js/runtime-main.6639508f.js",
-    "runtime-main.js.map": "/kids-clothes-sizes/static/js/runtime-main.6639508f.js.map",
-    "static/js/2.f4a4ac3e.chunk.js": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js",
-    "static/js/2.f4a4ac3e.chunk.js.map": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js.map",
-    "index.html": "/kids-clothes-sizes/index.html",
-    "precache-manifest.d99fbd9022260b30d4a5c9b7db50cb51.js": "/kids-clothes-sizes/precache-manifest.d99fbd9022260b30d4a5c9b7db50cb51.js",
-    "service-worker.js": "/kids-clothes-sizes/service-worker.js",
-    "static/css/main.5735b6b4.chunk.css.map": "/kids-clothes-sizes/static/css/main.5735b6b4.chunk.css.map",
-    "static/js/2.f4a4ac3e.chunk.js.LICENSE": "/kids-clothes-sizes/static/js/2.f4a4ac3e.chunk.js.LICENSE",
-    "static/media/ben-white.jpg": "/kids-clothes-sizes/static/media/ben-white.41fa2fbd.jpg",
-    "static/media/header.scss": "/kids-clothes-sizes/static/media/children.fe8a9a16.jpg",
-    "static/media/felipe-salgado.jpg": "/kids-clothes-sizes/static/media/felipe-salgado.d3aabcfa.jpg",
-    "static/media/jonathan-borba.jpg": "/kids-clothes-sizes/static/media/jonathan-borba.b1a30e39.jpg",
-    "static/media/ryan-plomp.jpg": "/kids-clothes-sizes/static/media/ryan-plomp.d077995e.jpg",
-    "static/media/travis-grossen.jpg": "/kids-clothes-sizes/static/media/travis-grossen.08506a47.jpg"
+    "main.css": "/static/css/main.a2e8d869.chunk.css",
+    "main.js": "/static/js/main.58b003a0.chunk.js",
+    "main.js.map": "/static/js/main.58b003a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dcf6c239.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dcf6c239.js.map",
+    "static/js/2.f4a4ac3e.chunk.js": "/static/js/2.f4a4ac3e.chunk.js",
+    "static/js/2.f4a4ac3e.chunk.js.map": "/static/js/2.f4a4ac3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.26a484f79878fa64162c42dae0f38763.js": "/precache-manifest.26a484f79878fa64162c42dae0f38763.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a2e8d869.chunk.css.map": "/static/css/main.a2e8d869.chunk.css.map",
+    "static/js/2.f4a4ac3e.chunk.js.LICENSE": "/static/js/2.f4a4ac3e.chunk.js.LICENSE",
+    "static/media/ben-white.jpg": "/static/media/ben-white.41fa2fbd.jpg",
+    "static/media/header.scss": "/static/media/children.fe8a9a16.jpg",
+    "static/media/felipe-salgado.jpg": "/static/media/felipe-salgado.d3aabcfa.jpg",
+    "static/media/jonathan-borba.jpg": "/static/media/jonathan-borba.b1a30e39.jpg",
+    "static/media/ryan-plomp.jpg": "/static/media/ryan-plomp.d077995e.jpg",
+    "static/media/travis-grossen.jpg": "/static/media/travis-grossen.08506a47.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6639508f.js",
+    "static/js/runtime-main.dcf6c239.js",
     "static/js/2.f4a4ac3e.chunk.js",
-    "static/css/main.5735b6b4.chunk.css",
-    "static/js/main.3b8ba584.chunk.js"
+    "static/css/main.a2e8d869.chunk.css",
+    "static/js/main.58b003a0.chunk.js"
   ]
 }
