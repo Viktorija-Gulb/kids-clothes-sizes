@@ -1,6 +1,6 @@
 Vaikiškų drabužių bei avalynės dydžių lentelės. Pritaikyta mobiliems įrenginiams.
 
-[wwww.vaikiskidydziai.lt](https://vaikiskidydziai.lt/?target=_blank)
+[wwww.vaikiskidydziai.lt](https://vaikiskidydziai.lt/ target="_blank")
 
 ![vaikiškų drabužių bei avalynės dydžių lentelės](src/img/web-screenshot.png)
 
