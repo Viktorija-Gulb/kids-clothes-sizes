@@ -11,7 +11,7 @@ function Footer() {
     timeOfDay = "Gražaus jums ryto!"
   } else if (hours >=12 && hours < 17) {
     timeOfDay = "Gražios dienos!"
-  } else if (hours > 18 && hours < 21){
+  } else if (hours >= 18 && hours < 21){
     timeOfDay = "Gražaus vakaro!"
   } else {
     timeOfDay = "Labos nakties!"
