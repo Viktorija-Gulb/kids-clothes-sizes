@@ -1,5 +1,8 @@
 import React, {Component} from "react";
 import './sizesTable1.scss'
+import NewbornTable from "./NewbornTable";
+
+import data from '../../data/newborn.json'
 
 class SizesTable1 extends Component {
   state = {
@@ -18,7 +21,8 @@ class SizesTable1 extends Component {
     return(
       <div className="table-wrapper">
         <div className="open-table-btn" onClick={this.toggle}>{this.state.on ? this.state.tableState: 'Žiūrėti lentelę'}</div>
-        <table className={this.state.on ? 'table table--open' : 'table'}>
+        <NewbornTable data={data} />
+        {/* <table className={this.state.on ? 'table table--open' : 'table'}>
           <thead className="table__head">
             <tr className="table__row table__row--head-row">
               <th className="table__cell">DYDIS</th>
@@ -58,7 +62,7 @@ class SizesTable1 extends Component {
               <td className="table__cell">9.5-11</td>
             </tr>
           </tbody>
-        </table>
+        </table> */}
       </div>
     );
   }
