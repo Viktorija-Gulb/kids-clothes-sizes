@@ -1,29 +1,18 @@
 import React from 'react';
 
-import SizesTable1 from '../table1/SizesTable1';
+import NewbornContent from '../newborn/NewbornContent';
 import SizesTable1to6 from '../table2/SizesTable1to6';
 import SizesTable3to16 from '../table3/SizesTable3to16';
 
 import './clothesSizes.scss'
 
-import newbornImg from '../../img/jonathan-borba.jpg'
 import toddler from '../../img/felipe-salgado.jpg'
 import schoolAge from '../../img/ben-white.jpg'
 
 function ClotheSizes(){
   return(
     <section className="section">
-      <div className="section__wrapper" id="newborn-table">
-        <h2 className="section__heading">Dydžiai naujagimiams</h2>
-        <div className="section__content">
-          <SizesTable1 />
-          <div className="img-holder">
-            <img className="img-holder__img" src={newbornImg} alt="Baby."/>
-            <span className="img-holder__comment">Photo by Jonathan Borba on Unsplash</span>
-          </div>
-        </div>
-        <p className="paragraph">Pateikta dydžių lentelė yra orientacinė. Visada papildomai rekomenduojame atsižvelgti į gamintojo pateikta dydžių lentelę.</p>
-      </div>
+      <NewbornContent />
       <div className="section__wrapper" id="todler-table">
         <h2 className="section__heading">Nuo vienerių iki 6 metukų</h2>
         <div className="section__content section__content--toddler">
