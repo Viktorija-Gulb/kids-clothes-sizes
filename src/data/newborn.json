@@ -1,36 +1,30 @@
 [
   {
-    "id": "1",
     "size": "Naujagimis" ,
     "height": "iki 50",
     "weight": "iki 3.4"
   },
   {
-    "id": "2",
     "size": "0-1" ,
     "height": "iki 56",
     "weight": "iki 4.5"
   },
   {
-    "id": "3",
     "size": "0-3" ,
     "height": "56 - 62",
     "weight": "4.5 - 6"
   },
   {
-    "id": "4",
     "size": "3 - 6" ,
     "height": "62 - 68",
     "weight": "6 - 8"
   },
   {
-    "id": "5",
     "size": "6 - 9" ,
     "height": "68 - 74",
     "weight": "8 - 9.5"
   },
   {
-    "id": "6",
     "size": "9 - 12" ,
     "height": "74 - 80",
     "weight": "9.5 - 11"

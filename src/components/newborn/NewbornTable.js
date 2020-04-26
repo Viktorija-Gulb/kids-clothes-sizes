@@ -14,7 +14,7 @@ function NewbornTable(props){
         {
           props.data.map(row => (
             <tr className="table__row">
-              <td className="table__cell">{row.size}</td>
+              <td className="table__cell" key={}>{row.size}</td>
               <td className="table__cell">{row.height}</td>
               <td className="table__cell">{row.weight}</td>
             </tr>
