@@ -2,7 +2,7 @@ import React from "react";
 
 import NewbornContent from "../newborn/NewbornContent";
 import ToddlerContent from "../toddler/ToddlerContent";
-import SizesTable3to16 from "../table3/SizesTable3to16";
+import ChildContent from "../childContent/ChildContent";
 
 import "./clothesSizes.scss";
 
@@ -32,7 +32,7 @@ function ClotheSizes() {
       <div className="section__wrapper" id="table-3">
         <h2 className="section__heading">Nuo 3 iki 16 metų</h2>
         <div className="section__content">
-          <SizesTable3to16 />
+          <ChildContent />
           <div className="img-holder img-holder--schoolAge">
             <img className="img-holder__img" src={schoolAge} alt="Baby." />
             <span className="img-holder__comment">
