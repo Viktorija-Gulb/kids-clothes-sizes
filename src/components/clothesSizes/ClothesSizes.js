@@ -1,7 +1,7 @@
 import React from "react";
 
-import NewbornContent from "../newborn/NewbornContent";
-import ToddlerContent from "../toddler/ToddlerContent";
+import NewbornContent from "../newbornContent/NewbornContent";
+import ToddlerContent from "../toddlerContent/ToddlerContent";
 import ChildContent from "../childContent/ChildContent";
 
 import "./clothesSizes.scss";
