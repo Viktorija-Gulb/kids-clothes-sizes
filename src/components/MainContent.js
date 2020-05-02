@@ -8,7 +8,7 @@ import Calculator from "./calculator/Calculator";
 function MainContent() {
   return (
     <main className="main">
-      <Calculator />
+      {/* <Calculator /> */}
       <ClotheSizes />
       <HatSizes />
       <ShoesSizes />
