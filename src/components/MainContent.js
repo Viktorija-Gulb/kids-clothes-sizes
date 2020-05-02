@@ -1,12 +1,12 @@
 import React from "react";
 
-import HatSizes from "./hatSizes/HatSizes";
+import HatSizes from "./hatSizesContent/HatSizes";
 import ClotheSizes from "./clothesSizes/ClothesSizes";
-import ShoesSizes from "./shoesSizes/ShoesSizes";
+import ShoesSizes from "./shoesSizesContent/ShoesSizes";
 import Calculator from "./calculator/Calculator";
 
 function MainContent() {
-  return(
+  return (
     <main className="main">
       <Calculator />
       <ClotheSizes />
@@ -15,6 +15,5 @@ function MainContent() {
     </main>
   );
 }
-
 
 export default MainContent;

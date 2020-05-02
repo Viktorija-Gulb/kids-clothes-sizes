@@ -200,5 +200,172 @@
       "waist": "71",
       "hips": "96"
     }
+  ],
+  "hats": [
+    {
+      "id": 27,
+      "size": "0 - 3",
+      "head": "38"
+    },
+    {
+      "id": 28,
+      "size": "3 - 6",
+      "head": "42"
+    },
+    {
+      "id": 29,
+      "size": "6 - 9",
+      "head": "46"
+    },
+    {
+      "id": 30,
+      "size": "9 - 12",
+      "head": "47"
+    },
+    {
+      "id": 31,
+      "size": "12 - 18",
+      "head": "48"
+    },
+    {
+      "id": 32,
+      "size": "18 - 24",
+      "head": "49"
+    },
+    {
+      "id": 33,
+      "size": "2 - 3",
+      "head": "51"
+    },
+    {
+      "id": 34,
+      "size": "3 - 4",
+      "head": "52"
+    },
+    {
+      "id": 35,
+      "size": "4 - 5",
+      "head": "53"
+    },
+    {
+      "id": 36,
+      "size": "5 - 8",
+      "head": "54"
+    },
+    {
+      "id": 37,
+      "size": "9 - 12",
+      "head": "56"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 38,
+      "footLength": "9.7",
+      "sizeEU": 16,
+      "sizeUK": 2
+    },
+    {
+      "id": 39,
+      "footLength": "10.3",
+      "sizeEU": 17,
+      "sizeUK": "2 &frac12;"
+    },
+    {
+      "id": 40,
+      "footLength": 11,
+      "sizeEU": 18,
+      "sizeUK": 3
+    },
+    {
+      "id": 41,
+      "footLength": 11.6,
+      "sizeEU": 19,
+      "sizeUK": 4
+    },
+    {
+      "id": 42,
+      "footLength": 12.3,
+      "sizeEU": 20,
+      "sizeUK": 5
+    },
+    {
+      "id": 43,
+      "footLength": 13,
+      "sizeEU": 21,
+      "sizeUK": "5 &frac12;"
+    },
+    {
+      "id": 44,
+      "footLength": 13.6,
+      "sizeEU": 22,
+      "sizeUK": 6
+    },
+    {
+      "id": 45,
+      "footLength": 14.3,
+      "sizeEU": 23,
+      "sizeUK": 7
+    },
+    {
+      "id": 46,
+      "footLength": 15,
+      "sizeEU": 24,
+      "sizeUK": 8
+    },
+    {
+      "id": 47,
+      "footLength": 15.6,
+      "sizeEU": 25,
+      "sizeUK": "8 &frac12;"
+    },
+    {
+      "id": 48,
+      "footLength": 16.3,
+      "sizeEU": 26,
+      "sizeUK": 9
+    },
+    {
+      "id": 49,
+      "footLength": 17,
+      "sizeEU": 27,
+      "sizeUK": 10
+    },
+    {
+      "id": 50,
+      "footLength": 17.6,
+      "sizeEU": 28,
+      "sizeUK": "10 &frac12;"
+    },
+    {
+      "id": 51,
+      "footLength": 18.3,
+      "sizeEU": 29,
+      "sizeUK": "11 &frac12;"
+    },
+    {
+      "id": 52,
+      "footLength": 19,
+      "sizeEU": 30,
+      "sizeUK": 12
+    },
+    {
+      "id": 53,
+      "footLength": 19.6,
+      "sizeEU": 31,
+      "sizeUK": "12 &frac12;"
+    },
+    {
+      "id": 54,
+      "footLength": 20.3,
+      "sizeEU": 32,
+      "sizeUK": 13
+    },
+    {
+      "id": 55,
+      "footLength": 21,
+      "sizeEU": 33,
+      "sizeUK": "13 &frac12;"
+    }
   ]
 }
