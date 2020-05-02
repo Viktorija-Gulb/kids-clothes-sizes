@@ -205,57 +205,68 @@
     {
       "id": 27,
       "size": "0 - 3",
-      "head": "38"
+      "head": "38",
+      "dimension": "mėn"
     },
     {
       "id": 28,
       "size": "3 - 6",
-      "head": "42"
+      "head": "42",
+      "dimension": "mėn"
     },
     {
       "id": 29,
       "size": "6 - 9",
-      "head": "46"
+      "head": "46",
+      "dimension": "mėn"
     },
     {
       "id": 30,
       "size": "9 - 12",
-      "head": "47"
+      "head": "47",
+      "dimension": "mėn"
     },
     {
       "id": 31,
       "size": "12 - 18",
-      "head": "48"
+      "head": "48",
+      "dimension": "mėn"
     },
     {
       "id": 32,
       "size": "18 - 24",
-      "head": "49"
+      "head": "49",
+      "dimension": "mėn"
     },
     {
       "id": 33,
       "size": "2 - 3",
-      "head": "51"
+      "head": "51",
+      "dimension": "metai"
     },
     {
       "id": 34,
       "size": "3 - 4",
-      "head": "52"
+      "head": "52",
+      "dimension": "metai"
     },
     {
       "id": 35,
       "size": "4 - 5",
-      "head": "53"
+      "head": "53",
+      "dimension": "metai"
     },
     {
       "id": 36,
       "size": "5 - 8",
-      "head": "54"
+      "head": "54",
+      "dimension": "metai"
     },
     {
       "id": 37,
       "size": "9 - 12",
-      "head": "56"
+      "head": "56",
+      "dimension": "metų"
     }
   ],
   "shoes": [
