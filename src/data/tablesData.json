@@ -280,7 +280,7 @@
       "id": 39,
       "footLength": "10.3",
       "sizeEU": 17,
-      "sizeUK": "2 &frac12;"
+      "sizeUK": "2 ½"
     },
     {
       "id": 40,
@@ -304,7 +304,7 @@
       "id": 43,
       "footLength": 13,
       "sizeEU": 21,
-      "sizeUK": "5 &frac12;"
+      "sizeUK": "5 ½"
     },
     {
       "id": 44,
@@ -328,7 +328,7 @@
       "id": 47,
       "footLength": 15.6,
       "sizeEU": 25,
-      "sizeUK": "8 &frac12;"
+      "sizeUK": "8 ½"
     },
     {
       "id": 48,
@@ -346,13 +346,13 @@
       "id": 50,
       "footLength": 17.6,
       "sizeEU": 28,
-      "sizeUK": "10 &frac12;"
+      "sizeUK": "10 ½"
     },
     {
       "id": 51,
       "footLength": 18.3,
       "sizeEU": 29,
-      "sizeUK": "11 &frac12;"
+      "sizeUK": "11 ½"
     },
     {
       "id": 52,
@@ -364,7 +364,7 @@
       "id": 53,
       "footLength": 19.6,
       "sizeEU": 31,
-      "sizeUK": "12 &frac12;"
+      "sizeUK": "12 ½"
     },
     {
       "id": 54,
@@ -376,7 +376,7 @@
       "id": 55,
       "footLength": 21,
       "sizeEU": 33,
-      "sizeUK": "13 &frac12;"
+      "sizeUK": "13 ½"
     }
   ]
 }
