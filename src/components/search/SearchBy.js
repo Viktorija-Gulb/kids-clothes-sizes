@@ -25,8 +25,10 @@ class SearchBy extends React.Component {
   handleSubmit(event) {
     event.preventDefault();
 
+    console.log(parseInt(this.state.searchList[2].height));
+
     let filteredSearch = this.state.searchList.filter((item) => {
-      return item.height.includes(this.state.currentSearch);
+      return item.height.includes(parseInt(this.state.currentSearch));
     });
 
     let searchRezult = filteredSearch.map((item, i) => {
@@ -35,7 +37,7 @@ class SearchBy extends React.Component {
           <p>Id: {item.id}</p>
           <p>Size :{item.size}</p>
           <p>Height: {item.height}</p>
-          <p>Weight: {item.weight}</p>
+          {item.weight ? <p>Weight: {item.weight}</p> : ""}
           {item.chest ? <p>Chest: {item.chest}</p> : ""}
           {item.waist ? <p>Waist: {item.waist}</p> : ""}
           {item.hips ? <p>Hips: {item.hips}</p> : ""}
