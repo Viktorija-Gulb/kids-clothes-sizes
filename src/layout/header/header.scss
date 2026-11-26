@@ -1,4 +1,4 @@
-@import '../../styles/main';
+@use '../../styles/main' as *;
 
 .banner {
   background-image: url(../../img/children.jpg);

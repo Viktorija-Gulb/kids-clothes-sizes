@@ -1,16 +1,11 @@
-@import '../../styles/main';
+@use 'sass:color';
+@use '../../styles/main' as *;
 
 .table-wrapper {
   text-align: center;
   width: 100%;
   margin-bottom: 40px;
 
-  // &:nth-of-type(1){
-  //   background: $color-5;
-  // }
-  // &:nth-of-type(3n){
-  //   background: $color-5;
-  // }
   @media only screen and (min-width: 768px) {
     margin-bottom: 40px;
 
@@ -49,10 +44,10 @@
   &__row {
     $this: &;
 
-    background: darken($text-color-light-white, 2%);
+    background: color.adjust($text-color-light-white, $lightness: -2%);
 
     &:nth-child(2n) {
-      background: darken($text-color-light-white, 5%);
+      background: color.adjust($text-color-light-white, $lightness: -5%);
     }
 
     &--head-row {
