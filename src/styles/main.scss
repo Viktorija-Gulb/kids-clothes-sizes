@@ -1,6 +1,4 @@
-@import 'variables';
-@import 'typography';
-@import 'mixins';
-@import 'mediaQueries';
-
-
+@forward 'variables';
+@forward 'mixins';
+@forward 'mediaQueries';
+@use 'typography';
