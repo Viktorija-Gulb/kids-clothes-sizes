@@ -1,7 +1,7 @@
 {
-  "name": "kids-size-calc-react",
-  "version": "0.1.0",
-  "homepage": "https://vaikiskidydziai.lt/",
+  "name": "kids-clothes-sizes-react",
+  "version": "0.2.0",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
